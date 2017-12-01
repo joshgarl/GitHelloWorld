@@ -8,7 +8,7 @@ public class Main {
 	
 	private static void displayMessage() {
 		
-		System.out.println("Welcome to my GitHub!");
+		System.out.println("Welcome Josh's GitHub!");
 	
 		System.out.println("Test1");
 	}
