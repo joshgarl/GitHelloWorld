@@ -10,12 +10,12 @@ public class Main {
 		
 		System.out.println("Welcome Josh's GitHub!");
 	
-		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 	
 	private static void displayMessage2() {
 		
-		System.out.println("Welcome to my GitHub!");
+		System.out.println("Welcome Josh's GitHub!");
 	
 		System.out.println("Test1");
 	}
