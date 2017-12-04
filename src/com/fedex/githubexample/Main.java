@@ -12,4 +12,11 @@ public class Main {
 	
 		System.out.println("Test1");
 	}
+	
+	private static void displayMessage2() {
+		
+		System.out.println("Welcome to my GitHub!");
+	
+		System.out.println("Test1");
+	}
 }
