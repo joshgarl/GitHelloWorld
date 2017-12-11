@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("Welcome Josh's GitHub!");
 	
 		System.out.println("Test2");
+		System.out.println("New message");
 		
 		System.out.println("testing merge vs rebase");
 	}
@@ -19,6 +20,6 @@ public class Main {
 		
 		System.out.println("Welcome Josh's GitHub!");
 	
-		System.out.println("Test10");
+		System.out.println("Test11");
 	}
 }
