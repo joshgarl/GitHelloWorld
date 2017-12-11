@@ -13,12 +13,14 @@ public class Main {
 		System.out.println("Test2");
 		
 		System.out.println("testing merge vs rebase");
+		
+		System.out.println("testing conflict");
 	}
 	
 	private static void displayMessage2() {
 		
 		System.out.println("Welcome Josh's GitHub!");
 	
-		System.out.println("Test5");
+		System.out.println("Test6");
 	}
 }
