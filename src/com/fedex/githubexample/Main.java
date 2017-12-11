@@ -19,6 +19,6 @@ public class Main {
 		
 		System.out.println("Welcome Josh's GitHub!");
 	
-		System.out.println("Test5");
+		System.out.println("Test10");
 	}
 }
