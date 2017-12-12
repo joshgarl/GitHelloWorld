@@ -17,12 +17,19 @@ public class Main {
 		
 		System.out.println("testing merge vs rebase");
 		
-		System.out.println("testing conflict");
+		System.out.println("testing conflict conflict");
 		System.out.println("testing again");
 		
 	}
 	
 	private static void displayMessage2() {
+		
+		System.out.println("Welcome Josh's GitHub!");
+	
+		System.out.println("Test6");
+	}
+	
+	private static void displayMessage3() {
 		
 		System.out.println("Welcome Josh's GitHub!");
 	
