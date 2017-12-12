@@ -17,7 +17,7 @@ public class Main {
 		
 		System.out.println("testing merge vs rebase");
 		
-		System.out.println("testing conflict");
+		System.out.println("testing testing testing conflict");
 		System.out.println("testing again");
 		
 	}
